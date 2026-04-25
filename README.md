@@ -1,39 +1,34 @@
 <div align="center">
 
-<!-- PREMIUM BANNER -->
-<img src="https://raw.githubusercontent.com/vedparkasharya/vedparkasharya/main/assets/banner_v2.png" alt="Ved Parkash Arya - Premium Banner" width="100%" />
+<!-- 2026 PREMIUM BANNER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedparkasharya/vedparkasharya/main/assets/banner-2026.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedparkasharya/vedparkasharya/main/assets/banner-2026.png" />
+  <img src="https://raw.githubusercontent.com/vedparkasharya/vedparkasharya/main/assets/banner-2026.png" alt="Ved Parkash Arya — 2026 Premium Banner" width="100%" />
+</picture>
 
 <br /><br />
 
-<!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=2800&pause=800&color=10B981&center=true&vCenter=true&width=700&lines=BUILDING+THE+FUTURE+OF+CREATORS+%F0%9F%8C%B2;FOUNDER+%26+CEO+%40+SNAPFOREST+%F0%9F%9A%80;FULL-STACK+ENGINEER+%7C+AI+%7C+NETWORKING+%F0%9F%92%BB;OPEN+SOURCE+ENTHUSIAST+%F0%9F%94%A5;SCALE+TO+50%2B+CITIES+%F0%9F%93%88" alt="Typing Animation" />
+<!-- TYPING ANIMATION — 2026 EDITION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=700&color=10B981&center=true&vCenter=true&width=750&lines=FULL-STACK+ARCHITECT+%F0%9F%8F%97%EF%B8%8F;AI+%7C+SYSTEMS+%7C+SCALE+%F0%9F%94%A5;FOUNDER+%40+SNAPFOREST+%F0%9F%8C%B2;2026+FOCUS%3A+50%2B+CITIES+%E2%9A%A1;OPEN+SOURCE+EVANGELIST+%F0%9F%9A%80" alt="2026 Typing Animation" />
 
 <br />
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
+<!-- STATUS BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedparkasharya&style=for-the-badge&color=10B981&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/vedparkasharya?style=for-the-badge&color=10B981&labelColor=0f172a&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/vedparkasharya?style=for-the-badge&color=10B981&labelColor=0f172a&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE+FOR+HIRING-10B981?style=for-the-badge&labelColor=0f172a" alt="Hiring Status" />
 </p>
 
 <!-- SOCIAL LINKS -->
 <p align="center">
-  <a href="https://snapforest.in" target="_blank">
-    <img src="https://img.shields.io/badge/SNAPFOREST-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=10B981&labelColor=0f172a" alt="Snapforest" />
-  </a>
-  <a href="https://www.linkedin.com/in/vedpra260" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vedprakasharya9973@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" />
-  </a>
-  <a href="https://twitter.com/snapforest_in" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/snapforest.in" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
-  </a>
+  <a href="https://snapforest.in" target="_blank"><img src="https://img.shields.io/badge/SNAPFOREST-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=10B981&labelColor=0f172a" alt="Snapforest" /></a>
+  <a href="https://www.linkedin.com/in/vedpra260" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="mailto:vedprakasharya9973@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" /></a>
+  <a href="https://twitter.com/snapforest_in" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/snapforest.in" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" /></a>
 </p>
 
 </div>
@@ -42,12 +37,25 @@
 
 <br />
 
-<!-- GITHUB TROPHY SECTION -->
+<!-- 2026 FOCUS SECTION — Trending for 2026 profiles -->
 <div align="center">
-  <h2>🏆 GITHUB TROPHIES</h2>
-  <p><i>Earning every secret rank. Every trophy. Every honor.</i></p>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=vedparkasharya&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="GitHub Trophies" width="100%" />
+  <h2>🎯 2026 FOCUS</h2>
+  <p><i>What I'm aggressively building this year</i></p>
+</div>
+
+```yaml
+🌲 MISSION:     Scale Snapforest to 50+ Indian cities
+🤖 AI_STACK:     Production LLM pipelines + Computer Vision systems
+📱 MOBILE:       Flutter apps serving 10K+ MAU
+🌐 WEB_SCALE:    Full-stack platforms with tRPC + PostgreSQL + Edge
+🔥 OPEN_SOURCE:  Weekly contributions to OSS & community building
+📈 METRICS:      System design | DevOps | Cloud architecture (AWS/Vercel)
+```
+
+<div align="center">
+  <img src="https://img.shields.io/badge/2026-Creator+Economy+Infrastructure-10B981?style=flat-square&labelColor=0f172a&logo=target&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/2026-AI+First+Architecture-10B981?style=flat-square&labelColor=0f172a&logo=brain&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/2026-Open+Source+Mentor-10B981?style=flat-square&labelColor=0f172a&logo=opensourceinitiative&logoColor=10B981" />
 </div>
 
 <br />
@@ -56,7 +64,7 @@
 
 <br />
 
-<!-- ABOUT ME SECTION -->
+<!-- IDENTITY SECTION -->
 <div align="center">
   <h2>🧬 THE ARCHITECT</h2>
 </div>
@@ -66,30 +74,30 @@
 <td width="60%">
 
 ```yaml
-name: Ved Parkash Arya
-role: Founder & CEO @ Snapforest
-location: Lakhisarai, Bihar, India
-education: BTech CSE (AI) @ GEC Lakhisarai
-status: "🔥 Aggressively building"
+name:     Ved Parkash Arya
+role:     Founder & CEO @ Snapforest 🌲
+edu:      BTech CSE (AI) @ GEC Lakhisarai
+location: Lakhisarai, Bihar, India 🇮🇳
+status:   🔥 Aggressively shipping
 
-missions:
-  - "Scaling Snapforest to 50+ cities"
-  - "India's creator economy infrastructure"
-  - "Open source & community building"
-  - "Full-stack systems at scale"
+expertise:
+  - Full-Stack System Architecture
+  - AI/ML Model Deployment
+  - Mobile-First Product Engineering
+  - Networking & Cloud Infrastructure
 
 certifications:
-  - "CCNA - Cisco Networking Academy"
-  - "ML/AI Intern - YBI Foundation"
+  - "CCNA — Cisco Networking Academy"
+  - "ML/AI Intern — YBI Foundation"
 
-mindset: "Move fast. Build things. Break limits."
+mantra: "Move fast. Build things. Break limits."
 ```
 
 </td>
 <td width="40%" align="center">
 
-<!-- CUSTOM METRICS WIDGET -->
-<img src="https://metrics.lecoq.io/vedparkasharya?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata&config.padding=0&config.display=large" alt="Metrics" width="100%" />
+<!-- SKILL FRESHNESS RADAR — 2026 Trend -->
+<img src="https://metrics.lecoq.io/vedparkasharya?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata&config.padding=0&config.display=large" alt="Skill Freshness Radar" width="100%" />
 
 </td>
 </tr>
@@ -101,11 +109,11 @@ mindset: "Move fast. Build things. Break limits."
 
 <br />
 
-<!-- 3D SNAKE CONTRIBUTION ANIMATION -->
+<!-- 3D CONTRIBUTION SNAKE — Premium Visual -->
 <div align="center">
   <h2>🐍 3D CONTRIBUTION SNAKE</h2>
-  <p><i>Watch my commits get devoured in real-time</i></p>
-  
+  <p><i>My commits, devoured in real-time</i></p>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedparkasharya/vedparkasharya/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedparkasharya/vedparkasharya/output/github-contribution-grid-snake.svg" />
@@ -119,9 +127,9 @@ mindset: "Move fast. Build things. Break limits."
 
 <br />
 
-<!-- STATS SECTION -->
+<!-- STATS DASHBOARD -->
 <div align="center">
-  <h2>📊 THE NUMBERS DON'T LIE</h2>
+  <h2>📊 THE NUMBERS</h2>
 </div>
 
 <table>
@@ -149,10 +157,24 @@ mindset: "Move fast. Build things. Break limits."
 
 <br />
 
-<!-- TECH STACK -->
+<!-- TROPHIES -->
+<div align="center">
+  <h2>🏆 GITHUB TROPHIES</h2>
+  <p><i>Earning every secret rank. Every trophy. Every honor.</i></p>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=vedparkasharya&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="GitHub Trophies" width="100%" />
+</div>
+
+<br />
+
+---
+
+<br />
+
+<!-- TECH ARSENAL -->
 <div align="center">
   <h2>🛠️ ARSENAL</h2>
-  <p><i>Technologies I use to dominate</i></p>
+  <p><i>Technologies I deploy at scale</i></p>
 </div>
 
 <p align="center">
@@ -170,7 +192,7 @@ mindset: "Move fast. Build things. Break limits."
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <br /><br />
-  <!-- Mobile & Tools -->
+  <!-- Mobile -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -181,15 +203,15 @@ mindset: "Move fast. Build things. Break limits."
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <br /><br />
-  <!-- Design & Network -->
+  <!-- Design & Cloud -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
 <br />
@@ -198,7 +220,7 @@ mindset: "Move fast. Build things. Break limits."
 
 <br />
 
-<!-- FEATURED PROJECTS -->
+<!-- FEATURED PROJECTS — Pinned Showcase -->
 <div align="center">
   <h2>🚀 FLAGSHIP PROJECTS</h2>
   <p><i>Real systems. Real impact. Real scale.</i></p>
@@ -211,17 +233,17 @@ mindset: "Move fast. Build things. Break limits."
 ### 🌲 SNAPFOREST
 <div align="center">
 
-[![Snapforest](https://img.shields.io/badge/🔗_LIVE_SITE-snapforest.in-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a)](https://snapforest.in)
+[![Snapforest](https://img.shields.io/badge/🔗_LIVE-snapforest.in-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a)](https://snapforest.in)
 
 </div>
 
 ```
-India's next-gen content creation platform
+India's next-gen creator economy platform
 ├── 6+ Premium Creator Spaces
-├── 50+ Professional Equipment  
-├── 24/7 Availability
+├── 50+ Professional Equipment Units
+├── 24/7 Booking & Availability
 ├── React + TypeScript + tRPC + Tailwind
-└── PostgreSQL + Supabase Backend
+└── PostgreSQL + Supabase + Edge Functions
 ```
 
 <p align="center">
@@ -237,24 +259,24 @@ India's next-gen content creation platform
 ### 🎓 GEC LAKHISARAI WEBSITE
 <div align="center">
 
-[![GEC Website](https://img.shields.io/badge/🔗_OFFICIAL_SITE-GEC_Lakhisarai-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a)](https://github.com/vedparkasharya/gec-lakhisarai-website)
+[![GEC Website](https://img.shields.io/badge/🔗_LIVE-gec-lakhisarai.ac.in-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a)](https://gec-lakhisarai.ac.in)
 
 </div>
 
 ```
-Government Engineering College Official Website
-├── React + TypeScript Frontend
-├── Modern UI/UX Design
-├── Responsive & Accessible
-├── College Information Portal
-└── Student & Faculty Resources
+Official college digital presence
+├── Admissions Portal
+├── Academics & Results
+├── Campus Life Showcase
+├── React + TypeScript + Tailwind
+└── Responsive + Accessible Design
 ```
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
 </td>
@@ -265,17 +287,17 @@ Government Engineering College Official Website
 ### 📱 GEC LAKHISARAI APP
 <div align="center">
 
-[![GEC App](https://img.shields.io/badge/🔗_FLUTTER_APP-GEC_Mobile-10B981?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0f172a)](https://github.com/vedparkasharya/gec-lakhisarai-flutter)
+[![Flutter App](https://img.shields.io/badge/🔗_REPO-Flutter+Firebase-10B981?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0f172a)](https://github.com/vedparkasharya/gec-lakhisarai-flutter)
 
 </div>
 
 ```
-Cross-platform College Mobile Application
-├── Flutter + Firebase
-├── Real-time Notifications
-├── Student Dashboard
-├── Event Management
-└── iOS & Android
+Cross-platform college management app
+├── Notices & Announcements
+├── Results & Academic Records
+├── Events & Calendar
+├── Flutter + Firebase + Dart
+└── Android + iOS Deployment
 ```
 
 <p align="center">
@@ -286,29 +308,21 @@ Cross-platform College Mobile Application
 </p>
 
 </td>
-<td width="50%">
+<td width="50%" align="center" valign="middle">
 
-### 🎯 MORE COMING SOON
-<div align="center">
+<br />
 
-[![Repos](https://img.shields.io/badge/🔗_EXPLORE_ALL_REPOS-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/vedparkasharya?tab=repositories)
-
-</div>
-
-```
-Building in public. Shipping daily.
-
-Open source contributions
-├── Developer tooling
-├── AI/ML experiments
-├── Network automation
-└── Creator economy infra
-```
+**💡 Have an idea? Let's collaborate.**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building-10B981?style=flat-square&logo=statuspage&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-10B981?style=flat-square&logo=opensourceinitiative&logoColor=white" />
+  <a href="mailto:vedprakasharya9973@gmail.com">
+    <img src="https://img.shields.io/badge/🚀_START_A_PROJECT-10B981?style=for-the-badge&labelColor=0f172a" alt="Start a Project" />
+  </a>
 </p>
+
+<br />
+
+> *"I build products that people actually use."*
 
 </td>
 </tr>
@@ -320,69 +334,47 @@ Open source contributions
 
 <br />
 
-<!-- ACHIEVEMENTS TRACKER -->
+<!-- ACHIEVEMENTS GRID -->
 <div align="center">
-  <h2>🏅 ACHIEVEMENT HUNTER</h2>
-  <p><i>Collecting every badge. Every tier. Every honor.</i></p>
+  <h2>🎖️ ACHIEVEMENTS UNLOCKED</h2>
 </div>
 
 <table align="center">
 <tr>
 <td align="center" width="80">
-
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="50" />
 <br /><sub><b>Pull Shark</b></sub>
-<br /><sub>2+ PRs merged</sub>
-
 </td>
 <td align="center" width="80">
-
 <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="50" />
 <br /><sub><b>YOLO</b></sub>
-<br /><sub>Merge without review</sub>
-
 </td>
 <td align="center" width="80">
-
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="50" />
 <br /><sub><b>Quickdraw</b></sub>
-<br /><sub>Close in 5 min</sub>
-
 </td>
 <td align="center" width="80">
-
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="50" />
 <br /><sub><b>Pair Extraordinaire</b></sub>
-<br /><sub>Co-authored PR</sub>
-
 </td>
 <td align="center" width="80">
-
 <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="50" />
 <br /><sub><b>Galaxy Brain</b></sub>
-<br /><sub>2+ answers</sub>
-
 </td>
 <td align="center" width="80">
-
 <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="50" />
 <br /><sub><b>Starstruck</b></sub>
-<br /><sub>16+ stars repo</sub>
-
 </td>
 <td align="center" width="80">
-
 <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="50" />
 <br /><sub><b>Public Sponsor</b></sub>
-<br /><sub>Sponsor OSS</sub>
-
 </td>
 </tr>
 </table>
 
 <br />
 
-> 🎯 **TARGET**: Unlocking all tiers — Bronze → Silver → Gold. See [`ACHIEVEMENTS_STRATEGY.md`](./ACHIEVEMENTS_STRATEGY.md) for the complete battle plan.
+> 🎯 <b>TARGET 2026:</b> Unlocking all tiers — Bronze → Silver → Gold across every badge.
 
 <br />
 
@@ -390,13 +382,13 @@ Open source contributions
 
 <br />
 
-<!-- CONTRIBUTION CALENDAR -->
+<!-- CONTRIBUTION HEATMAP -->
 <div align="center">
   <h2>🔥 CONTRIBUTION INFERNO</h2>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedparkasharya&theme=react-dark&bg_color=0d1117&color=10B981&line=10B981&point=ffffff&area=true&hide_border=true&custom_title=2026%20Contribution%20Heatmap" alt="Contribution Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedparkasharya&theme=react-dark&bg_color=0d1117&color=10B981&line=10B981&point=ffffff&area=true&hide_border=true&custom_title=2026%20Contribution%20Heatmap" alt="2026 Contribution Graph" width="90%" />
 </div>
 
 <br />
@@ -420,7 +412,7 @@ Open source contributions
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=footer&text=THANKS%20FOR%20STOPPING%20BY&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=footer&text=THANKS+FOR+STOPPING+BY&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" />
 
 <br />
 
