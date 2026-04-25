@@ -1,0 +1,1 @@
+# Changelog\n\nAll notable changes to this project.\n\n## 2026-04-26\n- Initial release\n- Achievement hunting begins!\n
