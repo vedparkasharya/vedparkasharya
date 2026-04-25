@@ -1,4 +1,4 @@
-# 🤝 Contributing to Ved Parkash Arya's Profile
+# 🤝 Contributing to Ved Prakash Arya's Profile
 
 Thanks for your interest in contributing! This is my personal GitHub profile README repository.
 
@@ -16,7 +16,19 @@ Thanks for your interest in contributing! This is my personal GitHub profile REA
 - Be respectful and constructive
 - Focus on meaningful improvements
 - Follow existing code style
+- Help others learn and grow
+
+## Want to Collaborate?
+
+I'm always open to collaboration! Reach out via:
+- 📧 Email: ved@snapforest.in
+- 💼 LinkedIn: https://linkedin.com/in/vedparkasharya
+- 🐦 Twitter: https://twitter.com/snapforest_in
 
 ## Questions?
 
 Reach out via [email](mailto:vedprakasharya9973@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vedpra260).
+
+---
+
+**Made with ❤️ by [Ved Prakash Arya](https://github.com/vedparkasharya)**
