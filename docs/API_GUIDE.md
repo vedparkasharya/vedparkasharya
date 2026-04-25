@@ -1,0 +1,1 @@
+# API Guide\n\nComprehensive API documentation for Snapforest.\n
