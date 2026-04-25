@@ -1,0 +1,43 @@
+name: Contribution Activity Bot
+
+on:
+  schedule:
+    # Run daily at 6 AM IST (12:30 AM UTC)
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  contribute:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate daily activity
+        run: |
+          mkdir -p activity-logs
+          DATE=$(date -u '+%Y-%m-%d')
+          TIME=$(date -u '+%H:%M:%S')
+          echo "# 📅 Activity Log - $DATE" > "activity-logs/$DATE.md"
+          echo "" >> "activity-logs/$DATE.md"
+          echo "- **Time**: $TIME UTC" >> "activity-logs/$DATE.md"
+          echo "- **Status**: ✅ Active contribution day" >> "activity-logs/$DATE.md"
+          echo "- **Streak**: Maintaining daily contributions 🔥" >> "activity-logs/$DATE.md"
+          echo "" >> "activity-logs/$DATE.md"
+          echo "---" >> "activity-logs/$DATE.md"
+          echo "*Automated by GitHub Actions*" >> "activity-logs/$DATE.md"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add activity-logs/
+          git diff --staged --quiet || git commit -m "📊 Daily activity log - $(date -u '+%Y-%m-%d')"
+          git push
