@@ -1,0 +1,1 @@
+# Testing Strategy\n\nUnit tests, integration tests, and E2E testing approach.\n
