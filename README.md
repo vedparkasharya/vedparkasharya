@@ -5,7 +5,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Ved+Parkash+Arya;Founder+%40+Snapforest+%F0%9F%8C%B2;Full-Stack+%26+AI+Engineer+%F0%9F%92%BB;Building+India's+Creator+Economy+%F0%9F%87%AE%F0%9F%87%B3;Open+Source+Contributor+%E2%9C%A8;BTech+CSE-AI+%F0%9F%8E%93;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Ved+Prakash+Arya;Founder+%40+Snapforest+%F0%9F%8C%B2;Full-Stack+%26+AI+Engineer+%F0%9F%92%BB;Building+India's+Creator+Economy+%F0%9F%87%AE%F0%9F%87%B3;Open+Source+Contributor+%E2%9C%A8;BTech+CSE-AI+%F0%9F%8E%93;GitHub+Star+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- Animated Wave -->
@@ -15,18 +15,19 @@
 
 <!-- Profile Views & Social Badges -->
 <div align="center">
-  
+
   [![Profile Views](https://komarev.com/ghpvc/?username=vedparkasharya&label=Profile%20Views&color=00D4FF&style=for-the-badge)](https://github.com/vedparkasharya)
   [![GitHub Followers](https://img.shields.io/github/followers/vedparkasharya?label=Followers&style=for-the-badge&color=7B2FF7&logo=github)](https://github.com/vedparkasharya?tab=followers)
   [![GitHub Stars](https://img.shields.io/github/stars/vedparkasharya?label=Stars&style=for-the-badge&color=FF006E&logo=github)](https://github.com/vedparkasharya?tab=repositories)
-  
+  [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/vedparkasharya)
+
 </div>
 
 <br>
 
 <!-- Custom Avatar Frame -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vedparkasharya/vedparkasharya/main/assets/profile_avatar_frame.png" width="220" alt="Ved Parkash Arya Avatar" style="border-radius: 50%; border: 3px solid #00D4FF;">
+  <img src="https://raw.githubusercontent.com/vedparkasharya/vedparkasharya/main/assets/profile_avatar_frame.png" width="220" alt="Ved Prakash Arya Avatar" style="border-radius: 50%; border: 3px solid #00D4FF;">
 </div>
 
 <br>
@@ -48,13 +49,15 @@
 
 💻 **Full-Stack Engineer** — React · Node.js · Python · Flutter · AI/ML
 
-🎓 **BTech CSE-AI** — Government Engineering College, Lakhisarai
+🎓 **BTech CSE-AI @ GEC Lakhisarai** — Session 2022-2026
 
 🌱 **Currently Exploring** — LLMs · Agentic AI · System Design · Cloud Architecture
 
 ⚡ **Fun Fact** — I can code for 12 hours straight with just chai ☕
 
 📍 **Location** — Lakhisarai, Bihar, India 🇮🇳
+
+🏆 **Goal 2026** — Earn ALL GitHub Achievements & Badges
 
 </div>
 
@@ -64,11 +67,63 @@
 
 <br>
 
+<!-- ===== 2026 GITLAB CONTRIBUTIONS BADGE (NEW) ===== -->
+<div align="center">
+  <a href="https://github.com/vedparkasharya">
+    <img src="https://img.shields.io/badge/GitHub-2026_Contributor-black?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00D4FF" alt="2026 GitHub Contributor">
+  </a>
+  <a href="https://github.com/sponsors/vedparkasharya">
+    <img src="https://img.shields.io/badge/Sponsor-❤️-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsor">
+  </a>
+  <a href="https://education.github.com/students">
+    <img src="https://img.shields.io/badge/Student-Pack-FF006E?style=for-the-badge&logo=github&logoColor=white" alt="Student Pack">
+  </a>
+</div>
+
+<br>
+
 <!-- GitHub Achievements Trophy -->
-<h2 align="center">🏆 GitHub Achievements 🏆</h2>
+<h2 align="center">🏆 GitHub Achievements Trophy 🏆</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vedparkasharya&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=vedparkasharya&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="100%">
+</div>
+
+<br>
+
+<!-- ===== 2026 NEW BADGE COLLECTION (NEW SECTION) ===== -->
+<h2 align="center">🎖️ 2026 GitHub Badge Collection 🎖️</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vedparkasharya/vedparkasharya/main/assets/achievements_banner.png" width="100%" alt="Achievements Banner">
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Core GitHub Achievements -->
+| Badge | Name | Tier | Status |
+|:-----:|:----:|:----:|:------:|
+| ⚡ | **Quickdraw** | Base | ✅ Earned |
+| 😅 | **YOLO** | Base | ✅ Earned |
+| 🦈 | **Pull Shark** | Bronze | ✅ Earned |
+| 🤝 | **Pair Extraordinaire** | Bronze | ✅ Earned |
+| 🧠 | **Galaxy Brain** | Bronze | ✅ Earned |
+| ❤️ | **Public Sponsor** | Base | ✅ Earned |
+| ⭐ | **Starstruck** | Bronze | 🔄 Target |
+| 🚀 | **Arctic Code Vault** | Contributor | ✅ Earned |
+
+</div>
+
+<br>
+
+<!-- ===== HACKTOBERFEST 2026 (NEW) ===== -->
+<div align="center">
+  <a href="https://hacktoberfest.com">
+    <img src="https://img.shields.io/badge/Hacktoberfest%202026-Participating-%23FF6B35?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Hacktoberfest 2026">
+  </a>
+  <img src="https://img.shields.io/badge/PRs-Merged-success?style=for-the-badge&logo=git&logoColor=white" alt="PRs Merged">
 </div>
 
 <br>
@@ -80,7 +135,7 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=vedparkasharya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF006E&text_color=C9D1D9" alt="GitHub Stats" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api?username=vedparkasharya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF006E&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%">
       </td>
       <td width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedparkasharya&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF006E&fire=FFD700&currStreakNum=00D4FF&sideNums=C9D1D9&currStreakLabel=00D4FF&sideLabels=C9D1D9" alt="GitHub Streak" width="100%">
@@ -91,6 +146,12 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedparkasharya&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedparkasharya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" width="50%" alt="Top Languages">
 </div>
 
 <br>
@@ -147,7 +208,7 @@
 
 <br>
 
-<!-- Featured Projects -->
+<!-- ===== FEATURED PROJECTS ===== -->
 <h2 align="center">🚀 Featured Projects 🚀</h2>
 
 <div align="center">
@@ -163,45 +224,68 @@
   <a href="https://github.com/vedparkasharya/gec-lakhisarai-flutter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedparkasharya&repo=gec-lakhisarai-flutter&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF006E" width="49%">
   </a>
-  <a href="https://github.com/vedparkasharya/vedparkasharya">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedparkasharya&repo=vedparkasharya&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF006E" width="49%">
+  <a href="https://github.com/vedparkasharya/awesome-india-tech-resources">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedparkasharya&repo=awesome-india-tech-resources&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF006E" width="49%">
   </a>
 </div>
 
 <br>
 
-<!-- Certifications & Programs -->
+<!-- ===== CERTIFICATIONS & PROGRAMS (ENHANCED) ===== -->
 <h2 align="center">🎓 Certifications & Programs 🎓</h2>
 
 <div align="center">
 
-| Program | Status | Badge |
-|---------|--------|-------|
-| **GitHub Student Developer Pack** | ✅ Active | 🎓 Verified Student |
-| **GitHub Campus Experts** | 🔄 Applied | 🏫 Community Builder |
-| **GitHub Foundations Certification** | 🔄 In Progress | 📜 Credential |
-| **GitHub Copilot Certification** | 🔄 In Progress | 🤖 AI Certified |
-| **GitHub Public Sponsor** | ✅ Active | ❤️ Supporter |
-| **MLH Fellowship** | 🔄 Applied | 🌐 Global Fellow |
+| Program | Status | Badge | Year |
+|---------|--------|-------|------|
+| **GitHub Student Developer Pack** | ✅ Active | 🎓 Verified Student | 2024-2026 |
+| **GitHub Campus Experts** | ✅ Applied | 🏫 Community Builder | 2026 |
+| **GitHub Stars Program** | 🔄 Applied | 🌟 Rising Star | 2026 |
+| **GitHub Copilot Certification** | 🔄 In Progress | 🤖 AI Certified | 2026 |
+| **GitHub Sponsors** | ✅ Active | ❤️ Open Source Supporter | 2026 |
+| **GitHub Developer Program** | ✅ Member | 👨‍💻 Developer | 2026 |
+| **GitHub Security Lab** | 🔄 Applied | 🔒 Security Researcher | 2026 |
+| **MLH Fellowship** | 🔄 Applied | 🌐 Global Fellow | 2026 |
+| **Google Summer of Code** | 🎯 Target | ☀️ GSoC Contributor | 2026 |
+| **Outreachy** | 🎯 Target | 🌸 Intern | 2026 |
+| **Microsoft Learn Student Ambassadors** | 🔄 Applied | 🅱️ Beta Student Ambassador | 2026 |
+| **AWS Educate** | ✅ Member | ☁️ Cloud Learner | 2025 |
 
 </div>
 
 <br>
 
-<!-- GitHub Achievements Grid -->
-<h2 align="center">🎯 Achievement Hunting 🎯</h2>
+<!-- ===== HACKATHONS & COMPETITIONS (NEW SECTION) ===== -->
+<h2 align="center">🏅 Hackathons & Competitions 🏅</h2>
 
 <div align="center">
 
-| Achievement | How to Earn | Progress |
-|:-----------:|:-----------:|:--------:|
-| ⭐ **Starstruck** | Repository with 16+ stars | 🔄 Building... |
-| ⚡ **Quickdraw** | Close issue/PR within 5 min | ✅ Earned |
-| 🤝 **Pair Extraordinaire** | Co-authored merged PRs | 🔄 In Progress |
-| 🦈 **Pull Shark** | Open merged PRs | 🔄 In Progress |
-| 🧠 **Galaxy Brain** | Accepted discussion answers | 🎯 Targeting |
-| 😅 **YOLO** | Merge PR without review | ✅ Ready |
-| ❤️ **Public Sponsor** | Sponsor via GitHub Sponsors | ✅ Earned |
+| Event | Status | Project |
+|:-----:|:------:|:-------:|
+| **Smart India Hackathon 2026** | 🏆 Participating | Snapforest AI |
+| **Hacktoberfest 2026** | 🔄 4 PRs Submitted | Open Source |
+| **GitHub Game Off 2026** | 🎯 Target | Game Dev |
+| **Devpost Global Hackathon** | 🎯 Target | AI Agent |
+| **CodeCrafters Challenge** | 🎯 Target | System Design |
+
+</div>
+
+<br>
+
+<!-- ===== SPONSORSHIP TIERS (NEW) ===== -->
+<h2 align="center">💎 Sponsor Tiers 💎</h2>
+
+<div align="center">
+
+### 🌟 Why Sponsor Me?
+
+Your sponsorship helps me build **open-source tools** for the Indian developer community and maintain projects like **Snapforest** — empowering creators across Bharat! 🇮🇳
+
+| Tier | Perks | Monthly |
+|:----:|:-----:|:-------:|
+| ☕ **Chai Lover** | Shoutout in README | ₹100 |
+| 🚀 **Builder** | Priority Support + Logo | ₹500 |
+| 💎 **Champion** | All above + 1:1 Mentorship | ₹2000 |
 
 </div>
 
@@ -220,6 +304,15 @@
 
 <br>
 
+<!-- Metrics SVG -->
+<h2 align="center">📈 Detailed Metrics 📈</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vedparkasharya/vedparkasharya/main/metrics.svg" width="100%" alt="GitHub Metrics">
+</div>
+
+<br>
+
 <!-- Connect With Me -->
 <h2 align="center">🌐 Let's Connect 🌐</h2>
 
@@ -227,7 +320,7 @@
 
   [![Website](https://img.shields.io/badge/Website-snapforest.in-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snapforest.in)
   [![Twitter/X](https://img.shields.io/badge/Twitter-@snapforest_in-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/snapforest_in)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ved%20Parkash%20Arya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedparkasharya)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ved%20Prakash%20Arya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedparkasharya)
   [![Instagram](https://img.shields.io/badge/Instagram-@snapforest.in-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/snapforest.in)
   [![Email](https://img.shields.io/badge/Email-ved@snapforest.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ved@snapforest.in)
 
@@ -255,6 +348,16 @@ If you find my work valuable, consider sponsoring me on GitHub!
 
 <br>
 
+<!-- ===== FOOTER GITHUB BADGES WALL (NEW) ===== -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-FF006E?style=flat-square" alt="Made with love">
+  <img src="https://img.shields.io/badge/Open%20Source-💚-00D4FF?style=flat-square" alt="Open Source">
+  <img src="https://img.shields.io/badge/Made%20in-🇮🇳-FF9933?style=flat-square" alt="Made in India">
+  <img src="https://img.shields.io/badge/Powered%20by-Chai-8B4513?style=flat-square" alt="Powered by Chai">
+</div>
+
+<br>
+
 <!-- Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:7B2FF7,100:00D4FF&height=120&section=footer&text=&fontSize=0" width="100%">
@@ -262,17 +365,18 @@ If you find my work valuable, consider sponsoring me on GitHub!
 
 <!-- Footer Message -->
 <div align="center">
-  
+
   ### ✨ "Code is like humor. When you have to explain it, it's bad." ✨
-  
-  **Made with ❤️ by [Ved Parkash Arya](https://github.com/vedparkasharya)**
-  
+
+  **Made with ❤️ by [Ved Prakash Arya](https://github.com/vedparkasharya)**
+
   <img src="https://raw.githubusercontent.com/vedparkasharya/vedparkasharya/main/assets/profile_avatar_frame.png" width="60" alt="Footer Logo">
-  
+
 </div>
 
-<!-- 
+<!--
   ⭐ Star this repository if you like my profile!
   🍴 Fork it to create your own awesome profile!
   🤝 Let's build something amazing together!
+  🎯 Goal: Earn all GitHub Achievements by Dec 2026!
 -->
