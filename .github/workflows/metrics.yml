@@ -1,71 +1,85 @@
-name: 📊 Generate Metrics
-
+name: Metrics
 on:
-  schedule:
-    # Run daily at midnight IST (18:30 UTC)
-    - cron: "30 18 * * *"
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-
+  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@v3.34
+      - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          # Your GitHub token
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
           user: vedparkasharya
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           config_display: large
-          config_padding: 0
-          
-          # Languages plugin
+          config_twemoji: yes
+
+          # Plugin: isocalendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Plugin: languages
           plugin_languages: yes
-          plugin_languages_limit: 10
-          plugin_languages_threshold: 0%
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_sections: most-used
-          plugin_languages_indepth: no
-          plugin_languages_recent_load: 300
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
-          
-          # Achievements plugin
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_limit: 0
-          
-          # Notable contributions
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_repositories: no
-          plugin_notable_indepth: no
-          plugin_notable_types: commit
-          
-          # Habits
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+
+          # Plugin: habits
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          
-          # Lines of code
-          plugin_lines: yes
-          plugin_lines_delay: 30
-          
-          # Activity
+
+          # Plugin: achievements
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+
+          # Plugin: notable
+          plugin_notable: yes
+          plugin_notable_from: all
+
+          # Plugin: activity
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_days: 14
           plugin_activity_filter: all
-          
-          # Followup
+
+          # Plugin: topics
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
+          plugin_topics_limit: 15
+
+          # Plugin: people
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+
+          # Plugin: stars
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          # Plugin: followup
           plugin_followup: yes
           plugin_followup_sections: repositories
