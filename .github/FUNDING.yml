@@ -1,0 +1,5 @@
+# GitHub Sponsors Configuration
+# Enable sponsorship button on all repositories
+
+github: [vedparkasharya]
+custom: ["https://snapforest.in", "https://buymeacoffee.com/vedparkasharya"]
