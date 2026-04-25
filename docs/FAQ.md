@@ -1,0 +1,1 @@
+# Frequently Asked Questions\n\n**Q: What is this project?**\nA: India's creator economy platform.\n
