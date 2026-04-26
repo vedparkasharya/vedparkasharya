@@ -341,3 +341,59 @@ print(me.say_hello())
 
   💡 If you made it this far, you should definitely hire me or collaborate!
 -->
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    🔥 LATEST HIGHLIGHTS 2026                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Latest Projects
+
+<p align="center">
+  <a href="https://github.com/vedparkasharya/free-developer-perks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedparkasharya&repo=free-developer-perks&theme=radical&hide_border=true&title_color=00D4AA&icon_color=00D4AA" />
+  </a>
+  <a href="https://github.com/vedparkasharya/awesome-india-tech-resources">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedparkasharya&repo=awesome-india-tech-resources&theme=radical&hide_border=true&title_color=00D4AA&icon_color=00D4AA" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vedparkasharya/Snapforest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedparkasharya&repo=Snapforest&theme=radical&hide_border=true&title_color=00D4AA&icon_color=00D4AA" />
+  </a>
+  <a href="https://github.com/vedparkasharya/campusconnect-student-opportunity-hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedparkasharya&repo=campusconnect-student-opportunity-hub&theme=radical&hide_border=true&title_color=00D4AA&icon_color=00D4AA" />
+  </a>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    📜 CERTIFICATIONS & BADGES                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏆 Certifications In Progress
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900%20(Fundamentals)-258ffa?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Cloud%20Digital%20Leader-4285f4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-API%20Fundamentals-ff6c37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Student%20Developer%20Pack-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    🌐 CONNECT WITH ME                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://snapforest.in"><img src="https://img.shields.io/badge/Website-snapforest.in-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://twitter.com/snapforest_in"><img src="https://img.shields.io/badge/Twitter-@snapforest__in-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:vedpra260@gmail.com"><img src="https://img.shields.io/badge/Email-vedpra260@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vedparkasharya"><img src="https://img.shields.io/badge/LinkedIn-Ved%20Prakash%20Arya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+</p>
